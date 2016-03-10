@@ -1,10 +1,9 @@
-/**
- * Created by Gregory on 08.03.2016.
- */
+
 public class SomeActions {
 
     public SomeActions() {
         log("Hello world");
+        log("Game starts...");
 
 
     }
