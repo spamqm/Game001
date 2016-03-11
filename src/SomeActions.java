@@ -10,6 +10,7 @@ public class SomeActions {
         this.data = data;
         log("Hello world");
         log("Game starts...");
+        log("oNe more");
     }
 
 
