@@ -4,7 +4,15 @@ public class Starter {
 
         new OneMore();
 
-        new OneMore().info();
+        OneMore bbb = new OneMore();
+
+        int i = 0;
+
+        for (; i < 10; i++) {
+
+            bbb.info();
+
+        }
 
     }
 }
